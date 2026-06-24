@@ -5,7 +5,8 @@ This repository contains the dataset and source code developed for the study:
 </p>
 
 <p>
-<strong>“Reinforced Concrete Deep Beams Optimization Using Data-Driven Parametric Performance Indicators.”</strong>
+<strong>“Reinforced Concrete Deep Beams Optimization Using Data-Driven Parametric Performance Indicators.”</strong><br>
+DOI: https://doi.org/10.54878/xqyna996
 </p>
 
 <p>
@@ -20,6 +21,5 @@ The project presents a computational multi-objective optimization framework for 
   <li>Python post-processing with trendline regression</li>
 </ul>
 
-<p>
-<em>The repository will be fully updated and documented upon paper acceptance.</em>
+<p> This repository accompanies the published article and is intended to support reproducible research and the application of machine learning techniques in reinforced concrete structural engineering.
 </p>
